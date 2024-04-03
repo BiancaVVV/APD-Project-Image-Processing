@@ -18,5 +18,6 @@ conținutului media la o rezoluție mai mică, cu 2GB de memorie GDDR5 și
 suport pentru tehnologii moderne, cum ar fi DirectX 12 și AMD FreeSync.
 
 ![Screenshot 2024-04-02 220722](https://github.com/BiancaVVV/APD-Project-Image-Processing/assets/63341026/b46c0262-3490-4f3e-ae4f-5f05375ed0b0)
-![Screenshot 2024-04-02 220646](https://github.com/BiancaVVV/APD-Project-Image-Processing/assets/63341026/731f4c56-455d-45cf-9cf2-2745021d1258)
 
+
+<img width="964" alt="Screenshot 2024-04-03 at 11 21 06" src="https://github.com/BiancaVVV/APD-Project-Image-Processing/assets/63341026/fb48f6ca-4e6f-4cde-b5f7-282d36510bc9">
