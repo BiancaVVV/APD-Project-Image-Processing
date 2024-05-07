@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Bianca\Desktop\APD\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(17,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bianca\Desktop\APD\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(18,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bianca\Desktop\APD\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(67,135): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bianca\Desktop\APD\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(94,137): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Users\Bianca\Desktop\APD\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
