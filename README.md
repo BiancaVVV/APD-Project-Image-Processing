@@ -4,8 +4,8 @@ Utilizând limbajul de programare C++ și mediul de dezvoltare Visual Studio,
 proiectul își propune sa permita redimensionarea imaginilor, dar si aplicarea unei
 modificari asupra culorilor, obtinandu-se o imagine in nuante de gri si negru.
 
-Folosirea bibliotecii OpenCV în proiectul meu de prelucrare a imaginilor a adus
-numeroase beneficii. Prin intermediul OpenCV, am putut implementa rapid și eficient
+Folosirea bibliotecii OpenCV si a MPI în proiectul meu de prelucrare a imaginilor a adus
+numeroase beneficii. Prin intermediul MPI am putut realiza varianta paralela a codului, avand posibilitatea de a rula pe mai multe procese. Prin intermediul OpenCV, am putut implementa rapid și eficient
 operațiuni precum redimensionarea și corectarea culorii, având acces la o gamă largă
 de funcții și algoritmi optimizați pentru manipularea eficientă a imaginilor.
 Masina pe care am rulat este un PC cu urmatoarele componente:
