@@ -23,3 +23,10 @@ suport pentru tehnologii moderne, cum ar fi DirectX 12 și AMD FreeSync.
 ![Screenshot 2024-05-07 224546](https://github.com/BiancaVVV/APD-Project-Image-Processing/assets/63341026/dc07481e-f55f-4fb3-a701-146cf8a8a13b)
 ![Screenshot 2024-05-07 224705](https://github.com/BiancaVVV/APD-Project-Image-Processing/assets/63341026/3d214583-f202-4061-a230-31ce60837ab3)
 ![Screenshot 2024-05-07 224459](https://github.com/BiancaVVV/APD-Project-Image-Processing/assets/63341026/3c866de7-fd89-4480-866b-7a11bb4a2853)
+| 	header1	 | 	header2	 | 	header3	 | 
+| 	:-----:	 | 	:-----:	 | 	:-----:	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
