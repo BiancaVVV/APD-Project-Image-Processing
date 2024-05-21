@@ -1,0 +1,7 @@
+﻿  tema.cpp
+C:\Users\Bianca\Desktop\Threads\tema\tema.cpp(33,23): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Bianca\Desktop\Threads\tema\tema.cpp(55,17): warning C4566: character represented by universal-character-name '\u0218' cannot be represented in the current code page (1252)
+C:\Users\Bianca\Desktop\Threads\tema\tema.cpp(55,17): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Bianca\Desktop\Threads\tema\tema.cpp(58,17): warning C4566: character represented by universal-character-name '\u0218' cannot be represented in the current code page (1252)
+C:\Users\Bianca\Desktop\Threads\tema\tema.cpp(58,17): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  tema.vcxproj -> C:\Users\Bianca\Desktop\Threads\x64\Debug\tema.exe
